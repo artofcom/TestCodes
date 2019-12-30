@@ -16,7 +16,8 @@ struct ListNode
 	ListNode(int x) : val(x), next(NULL) {}	
 };
 
-struct TreeNode {
+struct TreeNode 
+{
 	int val;
 	TreeNode *left;
 	TreeNode *right;
@@ -30,7 +31,8 @@ bool isBadVersion(int version)
 	return false;
 }
 
-class Solution {
+class Solution
+{
 public:
 	bool isPalindrome(string s) {
 
