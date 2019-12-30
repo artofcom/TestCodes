@@ -9,7 +9,8 @@
 
 using namespace std;
 
-struct ListNode {
+struct ListNode 
+{
 	int val;
 	ListNode *next;
 	ListNode(int x) : val(x), next(NULL) {}	
@@ -359,6 +360,7 @@ public:
 			ret.push_back(str);
 			return true;
 		}
+
 
 		const int MAX = 4;
 		for (int z = 0; z < MAX; ++z)
