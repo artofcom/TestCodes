@@ -1,0 +1,9 @@
+﻿  easy_group.cpp
+f:\sources\study\leetcode\easy_group\easy_group\easy_group.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\sources\study\leetcode\easy_group\easy_group\easy_group.cpp(91): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\sources\study\leetcode\easy_group\easy_group\easy_group.cpp(196): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\sources\study\leetcode\easy_group\easy_group\easy_group.cpp(205): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\sources\study\leetcode\easy_group\easy_group\easy_group.cpp(272): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+f:\sources\study\leetcode\easy_group\easy_group\easy_group.cpp(357): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  easy_group.vcxproj -> F:\sources\study\leetcode\easy_group\Debug\easy_group.exe
+  easy_group.vcxproj -> F:\sources\study\leetcode\easy_group\Debug\easy_group.pdb (Full PDB)
